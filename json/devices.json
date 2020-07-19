@@ -1,0 +1,17 @@
+[
+    {
+        "devicename": "Beryllium",
+        "manufacturer": "Xiaomi",
+        "wrathversion": "1.1",
+        "maintainer": "Evilvenom",
+        "forumlink": "https://forum.xda-developers.com/poco-f1/development/rom-wrath-rom-v1-0-t4074063",
+        "download": "https://sourceforge.net/projects/wrathos/files/beryllium/"
+    },
+    {
+        "devicename": "mido",
+        "manufacturer": "Xiaomi",
+        "aimversion": "1.0",
+        "maintainer": "Himanshu Namdev",
+        "download": "https://sourceforge.net/projects/wrathos/files/mido/"
+    }
+]
